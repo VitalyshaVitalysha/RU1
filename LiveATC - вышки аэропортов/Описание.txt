@@ -1,0 +1,16 @@
+Feeder:
+http://d.liveatc.net/zlc_slc
+http://d.liveatc.net/kslc_app
+http://d.liveatc.net/kslc_twr2
+http://d.liveatc.net/kslc_twr3
+http://d.liveatc.net/kslc_br1
+http://d.liveatc.net/kslc_gnd
+http://d.liveatc.net/kslc_vfr
+Ресурсы:
+https://www.liveatc.net/search/?icao=czba
+http://youarelistening.to/
+http://relay.broadcastify.com/h4sbc9kr670mygn
+http://d.liveatc.net/kjfk_twr
+http://www.tldp.org/HOWTO/html_single/Aviation-HOWTO/
+https://coffitivity.com/assets/sounds/full/mp3/lunchtime-lounge.mp3
+http://www.virtualradarserver.co.uk/Mono.aspxhttp://www.virtualradarserver.co.uk/Mono.aspx

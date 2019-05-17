@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1,Live
+http://ice1.somafm.com/live-128-mp3
+#EXTINF:-1,Digitally Imported - Space Dreams
+http://pub2.diforfree.org:8000/di_spacemusic_hi
+#EXTINF:-1,Sonicuniverse
+http://ice1.somafm.com/sonicuniverse-192-mp3
+#EXTINF:-1,Missioncontrol
+http://ice1.somafm.com/missioncontrol-128-mp3
+#EXTINF:-1,Spacestation
+http://ice1.somafm.com/spacestation-128-mp3
+#EXTINF:-1,DeepspaceOne
+http://ice1.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1,Fluid
+http://ice1.somafm.com/fluid-128-mp3
+#EXTINF:-1,Defcon
+http://ice1.somafm.com/defcon-256-mp3
+#EXTINF:-1,Digitalis
+http://ice1.somafm.com/digitalis-128-mp3
+
+#EXTINF:-1,Groovesalad
+http://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1,7Soul
+http://ice1.somafm.com/7soul-128-mp3
+#EXTINF:-1,Bagel
+http://ice1.somafm.com/bagel-128-mp3
+#EXTINF:-1,Bootliquor
+http://ice1.somafm.com/bootliquor-320-mp3
+#EXTINF:-1,Brfm
+http://ice1.somafm.com/brfm-128-mp3
+#EXTINF:-1,Cliqhop
+http://ice1.somafm.com/cliqhop-256-mp3
+#EXTINF:-1,Covers
+http://ice1.somafm.com/covers-128-mp3
+
+#EXTINF:-1,U80s
+http://ice1.somafm.com/u80s-256-mp3
+#EXTINF:-1,Folkfwd
+http://ice1.somafm.com/folkfwd-128-mp3
+#EXTINF:-1,Illstreet
+http://ice1.somafm.com/illstreet-128-mp3
+#EXTINF:-1,Indiepop
+http://ice1.somafm.com/indiepop-128-mp3
+#EXTINF:-1,Dronezone
+http://ice1.somafm.com/dronezone-128-mp3
+#EXTINF:-1,Metall
+http://ice1.somafm.com/metal-128-mp3
+
+#EXTINF:-1,Lush
+http://ice1.somafm.com/lush-128-mp3
+#EXTINF:-1,Poptron
+http://ice1.somafm.com/poptron-128-mp3
+#EXTINF:-1,Secretagent
+http://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1,Seventies
+http://ice1.somafm.com/seventies-320-mp3
+#EXTINF:-1,Sf1033
+http://ice1.somafm.com/sf1033-128-mp3
+
+#EXTINF:-1,Suburbsofgoa
+http://ice1.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-1,Thetrip
+http://ice1.somafm.com/thetrip-128-mp3
+#EXTINF:-1,Thistle
+http://ice1.somafm.com/thistle-128-mp3
+#EXTINF:-1,Dubstep
+http://ice1.somafm.com/dubstep-256-mp3
+
+#EXTINF:-1,TOP 100
+http://radio.promodj.com/top100-192
+#EXTINF:-1,Channel 5
+http://radio.promodj.com/channel5-192
+#EXTINF:-1,Nu
+http://radio.promodj.com/nu-192
+#EXTINF:-1,Too Nu
+http://radio.promodj.com/toonu-192
+#EXTINF:-1,Deep
+http://radio.promodj.com/deep-192
+#EXTINF:-1,Too Deep
+http://radio.promodj.com/toodeep-192
+#EXTINF:-1,Strange
+http://radio.promodj.com/strange-192
+#EXTINF:-1,Mixadance FM
+http://radio.promodj.com/mixadancefm-192
+#EXTINF:-1,GarageFM
+http://radio.promodj.com/garagefm-192
+#EXTINF:-1,Ai-radio
+http://listen.ai-radio.org:8000/192.mp3?cc=XX&now=1522223188.422&
+
+#EXTINF:-1,Digitally Imported - Atmospheric Breaks
+http://pub2.diforfree.org:8000/di_atmosphericbreaks_hi
+#EXTINF:-1,Digitally Imported - Big Beat
+http://pub2.diforfree.org:8000/di_bigbeat_hi
+#EXTINF:-1,Digitally Imported - Breaks
+http://pub2.diforfree.org:8000/di_breaks_hi
+
+#EXTINF:-48,Ретро FM 90
+http://retro90.hostingradio.ru:8025/retro90-128.mp3
+#EXTINF:-49,Ретро FM 80
+http://retro80.hostingradio.ru:8025/retro80-128.mp3
+#EXTINF:-50,Ретро FM 70
+http://retro70.hostingradio.ru:8025/retro70-128.mp3
+
+#EXTINF:-1,ЭхоМСК
+http://213.108.204.214:8000/Echo_msk_Oren.m3u
+#EXTINF:-1,Спутник
+http://audio1.video.ria.ru/voicerus
+#EXTINF:-2,Вести
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-3,Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
+#EXTINF:-5,Коммерсант FM
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-7,Дорожное
+http://dorognoe.hostingradio.ru:8000/dorognoe
+#EXTINF:-13,Наше
+http://nashe128.streamr.ru/
+#EXTINF:-14,Эпизод NS
+http://episodes.ne.fm/mp3/radions
+#EXTINF:-15,Русское
+http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac?0.7233701071296486
+#EXTINF:-19,Страна FM
+https://icecast-stranafm.cdnvideo.ru/stranafm_128
+
+#EXTINF:-1,Digitally Imported - Ambient
+http://pub2.diforfree.org:8000/di_ambient_hi
+#EXTINF:-30,Relax FM
+http://ic7.101.ru:8000/a200?
+#EXTINF:-31,Relax Life
+http://ic7.101.ru:8000/c19_5
+#EXTINF:-32,Relax Gold
+http://ic7.101.ru:8000/c19_4?
+#EXTINF:-33,Relax Nature
+http://ic7.101.ru:8000/c19_1?
+#EXTINF:-34,Chocolate radio
+http://choco.hostingradio.ru:10010/fm
+#EXTINF:-1,Digitally Imported - Vocal Chillout
+http://pub2.diforfree.org:8000/di_vocalchillout_hi
+#EXTINF:-1,Digitally Imported - Chill & Tropical House
+http://pub2.diforfree.org:8000/di_chillntropicalhouse_hi
+#EXTINF:-1,Digitally Imported - ChillHop
+http://pub2.diforfree.org:8000/di_chillhop_hi
+#EXTINF:-28,101.ChillOutDi
+http://ic2.101.ru:8000/c15_3
+#EXTINF:-1,Digitally Imported - Chillout
+http://pub2.diforfree.org:8000/di_chillout_hi
+#EXTINF:-1,Digitally Imported - Chillout Dreams
+http://pub2.diforfree.org:8000/di_chilloutdreams_hi
+#EXTINF:-1,Digitally Imported - Chillstep
+http://pub2.diforfree.org:8000/di_chillstep_hi
+#EXTINF:-1,Digitally Imported - PsyChill
+http://pub2.diforfree.org:8000/di_psychill_hi
+#EXTINF:-1,Digitally Imported - Lounge
+http://pub2.diforfree.org:8000/di_lounge_hi
+#EXTINF:-1,Digitally Imported - Downtempo Lounge
+http://pub2.diforfree.org:8000/di_downtempolounge_hi
+#EXTINF:-1,Digitally Imported - Vocal Lounge
+http://pub2.diforfree.org:8000/di_vocallounge_hi
+#EXTINF:-1,Digitally Imported - Melodic Progressive
+http://pub2.diforfree.org:8000/di_melodicprogressive_hi
+#EXTINF:-1,Digitally Imported - Minimal
+http://pub2.diforfree.org:8000/di_minimal_hi
+#EXTINF:-1,Digitally Imported - DJ Mixes
+http://pub2.diforfree.org:8000/di_djmixes_hi
+#EXTINF:-1,Digitally Imported - EcLectronica
+http://pub2.diforfree.org:8000/di_eclectronica_hi
+#EXTINF:-1,Digitally Imported - Electropop
+http://pub2.diforfree.org:8000/di_electropop_hi
+#EXTINF:-1,Digitally Imported - Epic Trance
+http://pub2.diforfree.org:8000/di_epictrance_hi
+#EXTINF:-1,Digitally Imported - Future Garage
+http://pub2.diforfree.org:8000/di_futuregarage_hi
+#EXTINF:-1,Digitally Imported - Future Synthpop
+http://pub2.diforfree.org:8000/di_futuresynthpop_hi
+#EXTINF:-1,Digitally Imported - IDM
+http://pub2.diforfree.org:8000/di_idm_hi
+#EXTINF:-1,Digitally Imported - Indie Dance
+http://pub2.diforfree.org:8000/di_indiedance_hi
+#EXTINF:-1,Digitally Imported - Nu Disco
+http://pub2.diforfree.org:8000/di_nudisco_hi
+#EXTINF:-1,Digitally Imported - Deep Nu-Disco
+http://pub2.diforfree.org:8000/di_deepnudisco_hi
+#EXTINF:-1,Digitally Imported - Deep Tech
+http://pub2.diforfree.org:8000/di_deeptech_hi
+#EXTINF:-1,Digitally Imported - Classic EuroDance
+http://pub2.diforfree.org:8000/di_classiceurodance_hi
+#EXTINF:-1,Digitally Imported - Classic EuroDisco
+http://pub2.diforfree.org:8000/di_classiceurodisco_hi
+#EXTINF:-1,Digitally Imported - Classic Trance
+http://pub2.diforfree.org:8000/di_classictrance_hi
+#EXTINF:-1,Digitally Imported - Classic Vocal Trance
+http://pub2.diforfree.org:8000/di_classicvocaltrance_hi
+#EXTINF:-1,Digitally Imported - Trance
+http://pub2.diforfree.org:8000/di_trance_hi
+#EXTINF:-1,Digitally Imported - Vocal Trance
+http://pub2.diforfree.org:8000/di_vocaltrance_hi
+
+
+#EXTINF:-64,GotRadio-Piano Perfect
+http://gotradio-edge1.cdnstream.com/1198_128
+#EXTINF:-1,Radio Gothic - Europa
+http://radio-streamhosting.com:8006/128mp3
+#EXTINF:-1,Radio Gothic - Czech
+http://icecast1.play.cz:8000/Radiogothic128.mp3
+#EXTINF:-1,Radio Gothic - USA
+http://ca.radio-streamhosting.com:8006/128mp3
+#EXTINF:-1,Radio Gothic-Mobile-Windows
+http://ca.radio-streamhosting.com:8006/64aac
+#EXTINF:-69, Jazz MMX
+http://nashe.streamr.ru/jazz-128.mp3
+#EXTINF:-96,Deep Purple
+http://ic2.101.ru:8000/c14_21?99
+#EXTINF:-99,C.C. Catch
+http://radioget.ru/stream/85.25.43.52:8100/C_C_Catch-med
+#EXTINF:-100,Scorpions
+http://ic2.101.ru/a113?
+#EXTINF:-101,Roxette
+http://ic4.101.ru:8000/p851640?
+#EXTINF:-102,Instrumental
+http://ic7.101.ru:8000/c11_4?
